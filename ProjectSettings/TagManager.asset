@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - SoundManager
+  - Score
+  - AppMain
+  - Boss
+  - Other
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Fade
+  - Debug
+  - Player
+  - Charge
+  - Rock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1689210653
+    locked: 0
+  - name: Enemy
+    uniqueID: 2419181745
+    locked: 0
+  - name: Player
+    uniqueID: 3281244513
+    locked: 0
+  - name: Damage
+    uniqueID: 3584465189
+    locked: 0
+  - name: UI
+    uniqueID: 3584271767
+    locked: 0
+  - name: Fade
+    uniqueID: 307152159
+    locked: 0
+  - name: TapEffects
+    uniqueID: 3693909049
+    locked: 0
+  - name: Debug
+    uniqueID: 1985242939
+    locked: 0
