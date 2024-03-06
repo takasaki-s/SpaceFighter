@@ -93,7 +93,7 @@ TextureImporter:
       213: 21300058
     second: pipo-mapeffect014_29
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -152,6 +153,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -191,6 +193,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -844,6 +858,37 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      pipo-mapeffect014_0: 21300000
+      pipo-mapeffect014_1: 21300002
+      pipo-mapeffect014_10: 21300020
+      pipo-mapeffect014_11: 21300022
+      pipo-mapeffect014_12: 21300024
+      pipo-mapeffect014_13: 21300026
+      pipo-mapeffect014_14: 21300028
+      pipo-mapeffect014_15: 21300030
+      pipo-mapeffect014_16: 21300032
+      pipo-mapeffect014_17: 21300034
+      pipo-mapeffect014_18: 21300036
+      pipo-mapeffect014_19: 21300038
+      pipo-mapeffect014_2: 21300004
+      pipo-mapeffect014_20: 21300040
+      pipo-mapeffect014_21: 21300042
+      pipo-mapeffect014_22: 21300044
+      pipo-mapeffect014_23: 21300046
+      pipo-mapeffect014_24: 21300048
+      pipo-mapeffect014_25: 21300050
+      pipo-mapeffect014_26: 21300052
+      pipo-mapeffect014_27: 21300054
+      pipo-mapeffect014_28: 21300056
+      pipo-mapeffect014_29: 21300058
+      pipo-mapeffect014_3: 21300006
+      pipo-mapeffect014_4: 21300008
+      pipo-mapeffect014_5: 21300010
+      pipo-mapeffect014_6: 21300012
+      pipo-mapeffect014_7: 21300014
+      pipo-mapeffect014_8: 21300016
+      pipo-mapeffect014_9: 21300018
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

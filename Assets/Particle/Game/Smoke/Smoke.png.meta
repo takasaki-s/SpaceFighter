@@ -180,7 +180,7 @@ TextureImporter:
       213: 21300116
     second: Smoke_58
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -201,6 +201,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -239,6 +240,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -278,6 +280,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1540,6 +1554,66 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Smoke_0: 21300000
+      Smoke_1: 21300002
+      Smoke_10: 21300020
+      Smoke_11: 21300022
+      Smoke_12: 21300024
+      Smoke_13: 21300026
+      Smoke_14: 21300028
+      Smoke_15: 21300030
+      Smoke_16: 21300032
+      Smoke_17: 21300034
+      Smoke_18: 21300036
+      Smoke_19: 21300038
+      Smoke_2: 21300004
+      Smoke_20: 21300040
+      Smoke_21: 21300042
+      Smoke_22: 21300044
+      Smoke_23: 21300046
+      Smoke_24: 21300048
+      Smoke_25: 21300050
+      Smoke_26: 21300052
+      Smoke_27: 21300054
+      Smoke_28: 21300056
+      Smoke_29: 21300058
+      Smoke_3: 21300006
+      Smoke_30: 21300060
+      Smoke_31: 21300062
+      Smoke_32: 21300064
+      Smoke_33: 21300066
+      Smoke_34: 21300068
+      Smoke_35: 21300070
+      Smoke_36: 21300072
+      Smoke_37: 21300074
+      Smoke_38: 21300076
+      Smoke_39: 21300078
+      Smoke_4: 21300008
+      Smoke_40: 21300080
+      Smoke_41: 21300082
+      Smoke_42: 21300084
+      Smoke_43: 21300086
+      Smoke_44: 21300088
+      Smoke_45: 21300090
+      Smoke_46: 21300092
+      Smoke_47: 21300094
+      Smoke_48: 21300096
+      Smoke_49: 21300098
+      Smoke_5: 21300010
+      Smoke_50: 21300100
+      Smoke_51: 21300102
+      Smoke_52: 21300104
+      Smoke_53: 21300106
+      Smoke_54: 21300108
+      Smoke_55: 21300110
+      Smoke_56: 21300112
+      Smoke_57: 21300114
+      Smoke_58: 21300116
+      Smoke_6: 21300012
+      Smoke_7: 21300014
+      Smoke_8: 21300016
+      Smoke_9: 21300018
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
